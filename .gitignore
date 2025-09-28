@@ -1,0 +1,12 @@
+# Ignore build output
+/Debug/
+/Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+
+# IDE-specific
+.settings/
+.metadata/
